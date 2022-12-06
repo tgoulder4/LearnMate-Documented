@@ -1,0 +1,684 @@
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Form1.resources
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Homepage.resources
+C:\Users\s210214\OneDrive - Summit Learning Trust\Subjects\Coursework\NEA\Revisions\R1\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Login.resources
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.Main.resources
+C:\Users\S210214\Documents\cs\LearnMate\LearnMate\LearnMate\obj\Debug\net6.0-windows\LearnMate.StudentHomepage.resources
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Container.resources
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Homepage.resources
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Login.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\VPOINT7LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\UPDATEDLEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\LEARNMATE\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\LEARNMATEnewer\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v6LearnMate\v6LearnMate\v6LearnMate\LEARNMATENEWEST\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\s210214\Downloads\v6point5LearnMate\v6point5LearnMate\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnOrPractice.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmTeacherStart.resources
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v7point5LM\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmEnrol.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddStudentToClass.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmMoveStudentClass.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmEnterIntoSchool.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnAndPractice.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmSession.resources
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.xml
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.xml
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.xml
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.ResolveComReference.cache
+C:\Users\babyb\Downloads\v7point5\v7LM\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddEvent.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.ResolveComReference.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmEnrol.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnAndPractice.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmMoveStudentClass.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmSession.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddEvent.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddStudentToClass.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmEnterIntoSchool.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Desktop\LEARNMATE\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.xml
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.xml
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.xml
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.ResolveComReference.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmEnrol.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnAndPractice.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmMoveStudentClass.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmSession.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddEvent.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddStudentToClass.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmEnterIntoSchool.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\v14LearnMate - Separating backend to JSON\LearnMate\obj\Debug\net6.0-windows\LearnMate.dummyUI.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.ResolveComReference.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.dummyUI.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmEnrol.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnAndPractice.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmMoveStudentClass.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmSession.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddEvent.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddStudentToClass.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmEnterIntoSchool.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\S210214\Downloads\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.exe
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.deps.json
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.runtimeconfig.json
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3DX.xml
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.Direct3D.xml
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\bin\Debug\net6.0-windows\Microsoft.DirectX.xml
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.AssemblyReference.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.ResolveComReference.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.dummyUI.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmContainer.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmEnrol.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmHomepage.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLearnAndPractice.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmLoginScreen.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmManageClasses.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmMoveStudentClass.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmRevise.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmSession.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmStudents.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.frmTimeOrganiser.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.Properties.Resources.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddEvent.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmAddStudentToClass.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmCreateClass.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmEnterIntoSchool.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.subFrmSignUp.resources
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.GenerateResource.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfoInputs.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.AssemblyInfo.cs
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CoreCompileInputs.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.csproj.CopyComplete
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\refint\LearnMate.dll
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.pdb
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\LearnMate.genruntimeconfig.cache
+C:\Users\babyb\Downloads\learnmate\learnmate\dummy version\LearnMate\obj\Debug\net6.0-windows\ref\LearnMate.dll

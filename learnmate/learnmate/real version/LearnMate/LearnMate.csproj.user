@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEnrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMoveStudentClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subFrmAddEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subFrmAddStudentToClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subFrmCreateClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subFrmEnterIntoSchool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subFrmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLearnAndPractice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRevise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTimeOrganiser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
